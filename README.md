@@ -1,3 +1,6 @@
+## Name:Prethivirajan.L
+## Reg No:212224040251
+
 ## EX. NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
  
 
@@ -27,7 +30,8 @@ becomes C. To change a message back, each letter is replaced by the one three be
 ### STEP-5: Display the cipher text obtained above.
 
 
-PROGRAM :-
+## PROGRAM :-
+```
 
 def caesar_cipher(text, shift, encrypt=True):
   
@@ -55,11 +59,14 @@ print("Encrypted:", encrypted_text)
 
 print("Decrypted:", decrypted_text)
 
+```
 
-
-OUTPUT :-
+## OUTPUT :-
 
 
 
 ![Screenshot 2025-03-20 085443](https://github.com/user-attachments/assets/c118bf9b-6f30-4b57-99f0-27032088c394)
+
+## Result:
+hence,the program is successfully verified
 
